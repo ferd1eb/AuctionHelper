@@ -1,4 +1,8 @@
 <?php
+/* 
+    AuctionHelper
+    ferdieb
+*/
 session_start();
 include("bidder.php");
 include("item.php");
